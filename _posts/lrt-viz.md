@@ -1,6 +1,6 @@
 ---
 title: "LRT Visualisation"
-excerpt: "Some visualisation on travel time of LRT Kelana Jaya line"
+excerpt: "Some visualisation on the travel time of LRT Kelana Jaya line"
 coverImage: "/assets/blog/lrt/lrt.jpg"
 date: "2024-08-31T00:00:00.000Z"
 author:
@@ -12,7 +12,7 @@ ogImage:
 
 ## Introduction
 
-This visualisation is just a fun project with a friend of mine, Ren. We were trying to see and visualise the time taken between LRT stops. We were curious about how far and how wide the variation of travel times between stations is.
+This visualisation is just a fun project with a friend of mine, Ren. We were trying to see and visualise the time taken between LRT stops. We were curious about how far and how wide the variation of the travel times between stations is.
 
 ## Inspiration
 

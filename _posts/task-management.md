@@ -16,8 +16,8 @@ This idea came to me when I realized I have spent a lot of time writing down my 
 
 The repository is at:
 
-1. [Backend repo](https://github.com/ahmadanwar93/task-management-backend)
-2. [Frontend repo](https://github.com/ahmadanwar93/task-management-frontend)
+1. <u>[Backend repo](https://github.com/ahmadanwar93/task-management-backend)</u>
+2. <u>[Frontend repo](https://github.com/ahmadanwar93/task-management-frontend)</u>
 
 I will update the release as I go.
 

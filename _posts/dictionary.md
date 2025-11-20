@@ -12,7 +12,7 @@ ogImage:
 
 ## Introduction
 
-This is my first taste of designing a web app from scratch. The idea is to use the [Dictionary API](https://dictionaryapi.dev/) to get the definition and display it. The goal is to learn how designers think to empathize with them more.
+This is my first taste of designing a web app from scratch. The idea is to use the <u>[Dictionary API](https://dictionaryapi.dev/)</u> to get the definitions and display them. The goal is to learn how designers think to empathize with them more.
 
 The landing page I designed:
 
@@ -20,6 +20,6 @@ The landing page I designed:
 
 ## Thoughts
 
-I learned quite fast that designing is hard. It takes time and experience. I have to consider aspects like accessibility while still not sacrificing the aesthetics of it. I wish I had more time and guidance to complete this.
+I learned quite fast that designing is hard. It takes time and experience. I need consider aspects like accessibility while still not sacrificing the aesthetics of it. I wish I had more time and guidance to complete this.
 
-Looking back, I think the font pairing can be improved considering the font weight. Maybe I have to learn more.
+Looking back, I think the font pairing can be improved considering the font weight. Maybe I need learn more.

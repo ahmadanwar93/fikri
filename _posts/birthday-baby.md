@@ -1,6 +1,6 @@
 ---
 title: "Birthday visualisation"
-excerpt: "Some exploration on birthday date in Malaysia"
+excerpt: "Some exploration on birthday dates in Malaysia"
 coverImage: "/assets/blog/birthday-baby/birthday-baby.jpg"
 date: "2024-08-31T00:00:00.000Z"
 author:
@@ -12,15 +12,15 @@ ogImage:
 
 ## Introduction
 
-This visualisation inspiration came from looking at the [birthday exporer here](https://data.gov.my/dashboard/birthday-explorer). In particular I am just interested in looking at the pattern in the month of January. I still do not know the reason why there are peaks at the start of January, and end of December.
+The inspiration for this visualisation came from looking at the birthday explorer <u>[here](https://data.gov.my/dashboard/birthday-explorer)</u>. In particular I am just interested in looking at the pattern in the month of January. I still do not know the reason why there are peaks at the start of January, and the end of December.
 
 ## Inspiration
 
-My goal for the data visualization is to blend data visualisation and graphic design, hence why the wacky design was chosen. I researched a lot on the graphics to represent birthdays, but I settled on tree rings. Tree rings can be used to determine the age of a tree, which is related to birthdays.
+My goal for the data visualization is to blend data visualisation and graphic design, hence why the wacky design was chosen. I researched a lot on what graphics to use to represent birthdays, but I settled on tree rings. Tree rings can be used to determine the age of a tree, which is related to birthdays.
 
 ## More exploration
 
-I do wonder if using both total and average births per day across all the years would show if a similar pattern persists. But I do not have the luxury of time to properly visualise it. However, the code is here. Download the CSV file from the [data catalogue here](https://data.gov.my/data-catalogue/births). This is the code I used to generate both the sum and average of daily births.
+I do wonder if using both total and average births per day across all the years would show if a similar pattern persists. But I do not have the luxury of time to properly visualise it. However, the code is here. Download the CSV file from the data catalogue <u>[here](https://data.gov.my/data-catalogue/births)</u>. This is the code I used to generate both the sum and average of daily births.
 
 ```python
 import pandas as pd
