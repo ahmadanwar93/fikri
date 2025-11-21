@@ -2,6 +2,7 @@
 title: "Dictionary exploration"
 excerpt: "Learning how to design in Figma"
 coverImage: "/assets/blog/dictionary/dictionary-2.jpg"
+alternativeCoverImage: "/assets/blog/dictionary/dictionary-framed.jpg"
 date: "2023-08-31T00:00:00.000Z"
 author:
   name: Fikri
