@@ -16,7 +16,7 @@ The inspiration for this visualisation came from looking at the birthday explore
 
 ## Inspiration
 
-My goal for the data visualization is to blend data visualisation and graphic design, hence why the wacky design was chosen. I researched a lot on what graphics to use to represent birthdays, but I settled on tree rings. Tree rings can be used to determine the age of a tree, which is related to birthdays.
+My goal for the data visualization is to blend data visualisation and graphic design, hence why the wacky design was chosen. I researched a lot on what graphics to use to represent birthdays, but I settled on tree rings. Tree rings can be used to determine the age of a tree, which is related to birthdays. Huge thanks to Naz for giving me feedbacks on this.
 
 ## More exploration
 
